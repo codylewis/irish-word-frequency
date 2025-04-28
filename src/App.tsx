@@ -79,7 +79,7 @@ function App() {
             Líonra Séimeantach na Gaeilge
             <OpenInNewIcon fontSize="inherit" sx={{ marginLeft: 0.5 }} />
           </Link>
-          ). It was been made available for use under the{" "}
+          ). The dataset has been made available for use under the{" "}
           <Link
             href="https://opendatacommons.org/licenses/odbl/summary/"
             target="_blank"
