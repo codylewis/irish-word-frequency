@@ -73,8 +73,8 @@ function App() {
             New Corpus for Ireland
             <OpenInNewIcon fontSize="inherit" sx={{ marginLeft: 0.5 }} />
           </Link>{" "}
-          and then cleaned up by cross-checking against a large-coverage lexicon
-          (Kevin Scannell's{" "}
+          and then cleaned it up by cross-checking against a large-coverage
+          lexicon (Kevin Scannell's{" "}
           <Link href="https://cadhan.com/lsg/" target="_blank" rel="noopener">
             Líonra Séimeantach na Gaeilge
             <OpenInNewIcon fontSize="inherit" sx={{ marginLeft: 0.5 }} />
